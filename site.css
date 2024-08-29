@@ -28,15 +28,16 @@ img {
 
 #margin {
     padding: 150px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(192, 112, 112);
 }
 
 .caixamododepreparo {
     width: 700px;
-    height: 700px;
+    height: 500px;
     margin: 10px;
     text-align: column;
-    background-color: white;
+    background-color: rgb(154, 93, 93);
+    color: white;
 }
 
 header {
@@ -75,14 +76,6 @@ body {
     font-style: unset;
 }
 
-header input {
-    padding: 10px;
-    font-size: 16px;
-    margin-top: 10px;
-    width: 80%;
-    max-width: 400px;
-}
-
 button {
     padding: 10px 20px;
     font-size: 16px;
@@ -117,7 +110,7 @@ button:hover {
 
 .caixaB {
     width: 500px;
-    height: 960px;
+    height: 600px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -126,7 +119,7 @@ button:hover {
 }
 .caixaC {
     width: 500px;
-    height: 1150px;
+    height: 800px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -136,7 +129,7 @@ button:hover {
 
 .caixaD {
     width: 500px;
-    height: 950px;
+    height: 600px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -146,7 +139,7 @@ button:hover {
 
 .caixaE {
     width: 500px;
-    height: 1095px;
+    height: 750px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -156,7 +149,7 @@ button:hover {
 
 .caixaF {
     width: 500px;
-    height: 870px;
+    height: 550px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -166,7 +159,7 @@ button:hover {
 
 .caixaG {
     width: 500px;
-    height: 1200px;
+    height: 850px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -176,7 +169,7 @@ button:hover {
 
 .caixaH {
     width: 500px;
-    height: 1150px;
+    height: 900x;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -186,7 +179,7 @@ button:hover {
 
 .caixaI {
     width: 500px;
-    height: 1310px;
+    height: 1000px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -196,7 +189,7 @@ button:hover {
 
 .caixaJ {
     width: 500px;
-    height: 1070px;
+    height: 750px;
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
     text-align: flex;
@@ -207,6 +200,8 @@ button:hover {
 .imagem {
     display: flex;
     align-items: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .caixaintrodução {
@@ -226,4 +221,13 @@ button:hover {
     align-items: center;
     justify-content: center;
     color: black;
+}
+
+.caixamd {
+    width: 700px;
+    height: 450px;
+    margin: 10px;
+    text-align: column;
+    background-color: rgb(154, 93, 93);
+    color: white;
 }
